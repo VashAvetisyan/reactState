@@ -1,0 +1,21 @@
+.app-search {
+    display: flex;
+
+    input {
+        padding: 12px 24px;
+        flex: 1;
+        border: 2px solid #eee;
+        border-radius: 8px 0px 0px 8px;
+        ;
+    }
+
+    button {
+        background: rgb(198 97 174);
+        color: #fff;
+        padding: 12px 24px;
+        cursor: pointer;
+        border: none;
+        border-radius: 0px 8px 8px 0px;
+        ;
+    }
+}
